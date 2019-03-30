@@ -1,0 +1,16 @@
+# Blender MTL File: 'GoldFish.blend'
+# Material Count: 1
+
+newmtl Goldfish
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.255639 0.255639 0.255639
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd Textures/goldfish.png
+map_Bump Textures/goldfish_N.png
+map_Ks Textures/goldfish.png
+map_Ns Textures/goldfish.png
+map_d Textures/goldfish_A.png

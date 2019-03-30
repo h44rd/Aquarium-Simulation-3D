@@ -1,0 +1,42 @@
+# Blender MTL File: 'dolphin_midpoly.blend'
+# Material Count: 4
+
+newmtl dolphin_cornea
+Ns 184.313725
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.559336 0.464977
+Ks 1.000000 1.000000 1.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_d dolphin/Dolphin_blends/dolphin_scene_textures/dolphin_colour.png
+
+newmtl dolphin_lowerTeeth
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.480000 0.320000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl dolphin_main
+Ns 29.411765
+Ka 0.000000 0.000000 0.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.352749 0.352749 0.352749
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump dolphin/Dolphin_blends/dolphin_scene_textures/dolphin_bumpspec.png
+map_Kd dolphin/Dolphin_blends/dolphin_scene_textures/dolphin_colour.png
+map_Ks dolphin/Dolphin_blends/dolphin_scene_textures/dolphin_bumpspec.png
+
+newmtl dolphin_upperTeeth
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.480000 0.320000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
